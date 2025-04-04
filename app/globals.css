@@ -17,6 +17,7 @@ body {
 .error {
   margin-top: 5rem;
   text-align: center;
+  color: #fff;
 }
 
 .not-found h1,

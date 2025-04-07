@@ -1,6 +1,6 @@
 import classes from './image-picker.module.css';
 
-export default function ImagePicker() {
+export default function ImagePicker({ label, name }) {
   return(
     <div className={classes.picker}>
       <label htmlFor={name}>{label}</label>
